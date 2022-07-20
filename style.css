@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: poppins;
+    background-color: white;
+}
+
+.header {
+    width: 80%;
+    height: 650px;
+    margin: 60px auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: darkblue;
+    color: white;
+
+}
