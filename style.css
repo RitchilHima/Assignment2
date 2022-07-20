@@ -5,12 +5,38 @@ body {
 }
 
 .header {
-    width: 80%;
-    height: 650px;
-    margin: 60px auto;
+    width: 75%;
+    height: 550px;
+    margin: 70px auto;
     display: flex;
     justify-content: space-around;
     background-color: darkblue;
+    border-radius: 30px;
     color: white;
+    padding: 0px 60px;
+    align-items: center;
+    font-family: poppins;
 
+}
+
+.part2 {
+    font-weight: 700px;
+    font-size: 55px;
+}
+
+.part3 {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.part1 button {
+    text-decoration: none;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    padding: 6px 24px;
+    color: white;
+    font-size: 17px;
+    font-weight: 380;
+    border-radius: 10px;
 }
